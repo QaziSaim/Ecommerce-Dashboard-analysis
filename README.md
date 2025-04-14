@@ -1,6 +1,3 @@
-
-### README for "E-CommerceDashboard.xlsx"
-
 #### **Project Overview**  
 This file contains an **E-Commerce Sales Dashboard** for analyzing sales performance, shipping details, and profitability across different categories and regions. It includes raw data, pivot tables, and a dashboard for visualization.  
 
