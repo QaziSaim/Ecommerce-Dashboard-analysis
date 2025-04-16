@@ -1,3 +1,9 @@
+## 📊 E-Commerce Dashboard Analysis
+
+![E-Commerce Dashboard](ChatGPT Image Apr 16, 2025, 08_23_11 PM.png)
+ChatGPT Image Apr 16, 2025, 08_23_11 PM.png
+
+
 #### **Project Overview**  
 This file contains an **E-Commerce Sales Dashboard** for analyzing sales performance, shipping details, and profitability across different categories and regions. It includes raw data, pivot tables, and a dashboard for visualization.  
 
