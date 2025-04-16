@@ -1,32 +1,92 @@
-## 📊 E-Commerce Dashboard Analysis
-
 ![E-Commerce Dashboard](https://github.com/QaziSaim/Ecommerce-Dashboard-analysis/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2008_23_11%20PM.png)
-ChatGPT Image Apr 16, 2025, 08_23_11 PM.png
 
+# 📊 E-commerce Sales Analysis Dashboard
 
-#### **Project Overview**  
-This file contains an **E-Commerce Sales Dashboard** for analyzing sales performance, shipping details, and profitability across different categories and regions. It includes raw data, pivot tables, and a dashboard for visualization.  
+This project presents a comprehensive sales analysis for an e-commerce business using Excel and Power BI. It includes interactive dashboards, data visualizations, and KPIs to help derive actionable insights.
 
-#### **File Contents**  
-The workbook consists of the following sheets:  
-1. **Sales Data** - Contains transaction-level sales data with customer, product, and order details.  
-2. **Pivot Dashboard** - A visual representation of key sales metrics and trends.  
-3. **Working PivotTable** - Intermediate sheet for data analysis and calculations.  
-4. **DashBoard** - A summarized view of key sales insights.  
-5. **Working** - Likely used for data transformations or temporary calculations.  
+---
 
-#### **How to Use**  
-- Open the file in **Microsoft Excel** or **Google Sheets**.  
-- Navigate to the **"DashBoard"** or **"Pivot Dashboard"** sheet for key insights.  
-- Use filters and pivot tables to analyze specific trends (e.g., sales by region, profitability by category).  
-- Modify the **"Sales Data"** sheet to add new records and refresh the pivot tables for updated analysis.  
+## 📁 Dataset Overview
 
-#### **Key Metrics in the Dashboard**  
-- **Total Sales & Profit** per product category  
-- **Regional Sales Performance**  
-- **Customer Segmentation** (Consumer, Corporate, Home Office)  
-- **Shipping & Order Processing Time**  
+The dataset contains detailed records of customer orders, including:
 
-#### **Requirements**  
-- **Excel 2016+** for best compatibility with pivot tables and charts  
-- Alternatively, open in **Google Sheets**, but some advanced features may be limited  
+- **Order ID, Order Date, Ship Date**
+- **Customer & Region Details**
+- **Product Category, Sub-Category**
+- **Sales, Quantity, Discount, Profit**
+
+---
+
+## 🎯 Project Objective
+
+To analyze sales performance across various dimensions such as region, category, and customer segment, and generate a dynamic dashboard to support business decisions.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Microsoft Excel** (Pivot Tables, Charts)
+- **Power BI** (Dashboard Visualization)
+- **Data Cleaning & Formatting**
+
+---
+
+## 📌 Key Metrics & KPIs
+
+- ✅ **Total Sales**
+- ✅ **Total Profit**
+- ✅ **Discount Trends**
+- ✅ **Top-Selling Categories/Sub-Categories**
+- ✅ **Sales by Region**
+- ✅ **YOY Growth Analysis**
+
+---
+
+## 📈 Dashboard Features
+
+- **📍 Map Chart:** Sales by Region
+- **📊 Combo Chart:** Monthly Sales & Profit Trend
+- **💧 Waterfall Chart:** Profit Contribution by Category
+- **🥧 Pie Chart:** Sales Share by Customer Segment
+- **📌 KPI Cards:** Year-over-Year Comparison
+- **🏆 Top 5 Sub-Categories:** Based on Sales
+
+<p align="center">
+  <img src="(https://github.com/QaziSaim/Ecommerce-Dashboard-analysis/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2008_23_11%20PM.png)" alt="Ecommerce Dashboard" width="700"/>
+</p>
+
+---
+
+## 🔍 Pivot Tables Used
+
+- Sales by Region and Year
+- Profit by Category and Sub-Category
+- Segment-wise Sales & Profit
+- Sales & Discount Comparison
+- Time-Series Trends (Monthly, Quarterly)
+
+---
+
+## 📊 Insights Gained
+
+- **Furniture** was the highest-selling category but had mixed profits due to high discounts.
+- **West Region** outperformed in total sales.
+- **Corporate Segment** showed higher average order value.
+- Discounts >30% resulted in significant profit drops.
+
+---
+
+## 🧠 Conclusion
+
+This dashboard helps the business identify:
+- High-performing regions and products
+- Customer segments with highest returns
+- Loss-making categories due to excessive discounting
+
+---
+
+## 📎 Author
+
+**Kazi Sahim**  
+[LinkedIn](https://www.linkedin.com/in/sahim-kazi-1406431b9/) • [GitHub](https://github.com/QaziSaim/) • [Email](mailto:kazisahim121@gmail.com)
+
