@@ -51,10 +51,6 @@ To analyze sales performance across various dimensions such as region, category,
 - **📌 KPI Cards:** Year-over-Year Comparison
 - **🏆 Top 5 Sub-Categories:** Based on Sales
 
-<p align="center">
-  <img src="(https://github.com/QaziSaim/Ecommerce-Dashboard-analysis/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2008_23_11%20PM.png)" alt="Ecommerce Dashboard" width="700"/>
-</p>
-
 ---
 
 ## 🔍 Pivot Tables Used
