@@ -1,6 +1,6 @@
 ## 📊 E-Commerce Dashboard Analysis
 
-![E-Commerce Dashboard](ChatGPT Image Apr 16, 2025, 08_23_11 PM.png)
+![E-Commerce Dashboard](https://github.com/QaziSaim/Ecommerce-Dashboard-analysis/blob/main/ChatGPT%20Image%20Apr%2016%2C%202025%2C%2008_23_11%20PM.png)
 ChatGPT Image Apr 16, 2025, 08_23_11 PM.png
 
 
